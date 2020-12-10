@@ -60,7 +60,7 @@ namespace matesha228
             }
             for (int a = 1; a < 11; a++)
                 {
-                    forcell0(6, a, "");
+                    forcell0(5, a, "");
                 }
             }
         }

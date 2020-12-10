@@ -104,14 +104,14 @@
             // 
             // C1
             // 
-            this.C1.HeaderText = "C1";
+            this.C1.HeaderText = "";
             this.C1.MinimumWidth = 6;
             this.C1.Name = "C1";
             this.C1.Width = 71;
             // 
             // C2
             // 
-            this.C2.HeaderText = "C2";
+            this.C2.HeaderText = "C1";
             this.C2.MinimumWidth = 6;
             this.C2.Name = "C2";
             this.C2.ReadOnly = true;
@@ -119,7 +119,7 @@
             // 
             // C3
             // 
-            this.C3.HeaderText = "C3";
+            this.C3.HeaderText = "C2";
             this.C3.MinimumWidth = 6;
             this.C3.Name = "C3";
             this.C3.ReadOnly = true;
@@ -127,7 +127,7 @@
             // 
             // C4
             // 
-            this.C4.HeaderText = "C4";
+            this.C4.HeaderText = "C3";
             this.C4.MinimumWidth = 6;
             this.C4.Name = "C4";
             this.C4.ReadOnly = true;
@@ -135,7 +135,7 @@
             // 
             // C5
             // 
-            this.C5.HeaderText = "C5";
+            this.C5.HeaderText = "C4";
             this.C5.MinimumWidth = 6;
             this.C5.Name = "C5";
             this.C5.ReadOnly = true;
@@ -143,7 +143,7 @@
             // 
             // C6
             // 
-            this.C6.HeaderText = "C6";
+            this.C6.HeaderText = "C5";
             this.C6.MinimumWidth = 6;
             this.C6.Name = "C6";
             this.C6.ReadOnly = true;
@@ -151,7 +151,7 @@
             // 
             // C7
             // 
-            this.C7.HeaderText = "C7";
+            this.C7.HeaderText = "C6";
             this.C7.MinimumWidth = 6;
             this.C7.Name = "C7";
             this.C7.ReadOnly = true;
@@ -159,7 +159,7 @@
             // 
             // C8
             // 
-            this.C8.HeaderText = "C8";
+            this.C8.HeaderText = "C7";
             this.C8.MinimumWidth = 6;
             this.C8.Name = "C8";
             this.C8.ReadOnly = true;
@@ -167,7 +167,7 @@
             // 
             // C9
             // 
-            this.C9.HeaderText = "C9";
+            this.C9.HeaderText = "C8";
             this.C9.MinimumWidth = 6;
             this.C9.Name = "C9";
             this.C9.ReadOnly = true;
@@ -175,7 +175,7 @@
             // 
             // C10
             // 
-            this.C10.HeaderText = "C10";
+            this.C10.HeaderText = "C9";
             this.C10.MinimumWidth = 6;
             this.C10.Name = "C10";
             this.C10.ReadOnly = true;
@@ -183,7 +183,7 @@
             // 
             // C11
             // 
-            this.C11.HeaderText = "C11";
+            this.C11.HeaderText = "C10";
             this.C11.MinimumWidth = 6;
             this.C11.Name = "C11";
             this.C11.ReadOnly = true;
@@ -191,7 +191,7 @@
             // 
             // C12
             // 
-            this.C12.HeaderText = "C12";
+            this.C12.HeaderText = "";
             this.C12.MinimumWidth = 6;
             this.C12.Name = "C12";
             this.C12.ReadOnly = true;
